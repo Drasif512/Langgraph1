@@ -1,0 +1,9 @@
+fastapi[standard]
+langchain
+langchain_google_genai
+langgraph
+matplotlib
+IPython
+langchain_community
+trustcall
+sqlmodel
